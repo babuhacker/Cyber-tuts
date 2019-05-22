@@ -1,0 +1,27 @@
+tut1:
+
+methodology:1) DIGITAL FOOTPRINTING,scanning
+Networking basic:
+                LAN,MAN,WAN
+                IP
+                Internet types: surface web,deep web , dark web
+                tor(onion routing)
+                network model: TCP/IP() , OSI(reference model)
+                TCP/IP flags
+                3way handshake
+                4way handshake
+                IP addresses:private,public(cmd:- ipconfig(win),ifconfig(linu))
+                              public_ip:-Dynamic,static
+                              private:-ipv4(32),ipv6(128)
+                NAT
+                SubnetMask(cmd:-ifconfig):no of connectiion,no of unique devices connect to the network
+                classes
+                vpn
+                proxy
+                Default getway(route)
+                Dfault ip address
+                network topology
+
+extra info:-whoismrrobot.com,boot2root,
+hw:-top 20 ports,types of ports,diff. tcp/udp
+                               
