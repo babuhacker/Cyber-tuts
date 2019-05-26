@@ -35,3 +35,17 @@ hosting requirements : accessable,database,programming lanuage, os
                         servers:wamp: window apache mysql php
                                 lamp: linux apache mysql php
                                 xamp: cross platform apach mysql perl+php
+
+
+NetCat: A swiss Army Knife
+        file transfer
+        system access
+        communication(chat )
+        
+        
+
+
+
+
+
+
