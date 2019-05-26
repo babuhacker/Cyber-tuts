@@ -1,0 +1,37 @@
+Default get way(cmd : route)
+
+ports:Ports are the basically entry point of our system . a port is a logical construct that identifies a specific process or
+      a type of network service.jub bhi koi request bheji jaati hai to vo kis proper way mai ush divice mai enter karege uske liye 
+      hum port ko define ports.
+
+      
+types of ports:1)physical (usb,hdmi,3mm headphone, vgi)
+               2)virtual ports: we diefine the no. for these ports (0 to 2^16-1);  (total ports : 65536)
+                                these ports are divided into three parts:  
+                                        1)Well known ports(0-1023)
+                                        2)Regestered port(1024-49151):
+                                        3)Dynamic ports(49152-65535):it is used for temprary used.Customized port
+states of ports: 1)open state: if any services is run on any port then it is open state;
+                 2)close state:by default all ports are n close state;,services is not run 
+                 3)filtered state:filteration service :  traffic monitor(fireall configure)
+                 
+                 services :
+                            http : hyper text transfer protocol
+                            https:http ssl(secure socket layer)
+                            ftp  : file transfer protocol
+                            sftp:  ssh ftp
+                            ssh: secure shell home
+                            sntp:
+                            smtp: simple maile transfer protocol;
+                            pop:
+                            telnet:
+                            soap:
+                            sop:same origin policy
+                            
+ types of virtual port: tcp:transmission protocol;(used form are connection establish)
+                        udp:user datagram protocol;()
+                        
+hosting requirements : accessable,database,programming lanuage, os
+                        servers:wamp: window apache mysql php
+                                lamp: linux apache mysql php
+                                xamp: cross platform apach mysql perl+php
