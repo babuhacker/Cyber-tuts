@@ -6,3 +6,57 @@ shell - it is defference between kenal and user.
 (bash ,shell)
 
 (bugcrowd,hackerone,bugbounty)
+
+spider monkey(for firefox),v8(chrome) java script engine on browser.
+
+amd chip
+intel
+windows: .exe
+linux: .1)Debian:-all open_source:ubuntu , kali linux, elementry os :.deb(sudo apt-get install pkg)
+        2)Red hat:-RHEL 6,7(paid):centos,fidora,susi(open source):.rpm(redhat package manager)(sudo yum install package)
+        
+        :{
+          .tar
+          .tz
+          .tar.xz
+          .run
+          .bundle
+          .sh
+        }
+        
+        
+        sudo dpkg -i [dep file name];
+          |    |   |_install
+          |    |__________________________________pakage manager   
+          Root previladge
+          
+          
+          
+          .run/.bundle/.sh:    sudo ./file_name
+          
+          .tar.gz/.tar.xz :  extract normally
+          
+   
+          binwalk filename
+          exiftool filename
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
