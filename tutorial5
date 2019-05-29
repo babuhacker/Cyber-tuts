@@ -7,12 +7,20 @@ Information gathering:
                 
                 
                 
-                command : ping
+                command : ping google.com
                 
                 
                 location ony ISP:
                 https://www.ip2location.com/demo/223.178.184.251
                 http://whois.domaintools.com/
+                wayback machine:-----https://archive.org/
+                https://grabify.link/
+                  
+                user-agent:search-enginee,browser,os,
                 
+                request: date/time/user agents/ip/(logs create)
                 
-                   
+                cmd-:whois website_name
+                
+                server:----shared,dedicated
+                
