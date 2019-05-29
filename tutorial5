@@ -35,9 +35,10 @@ Information gathering:
                 https://www.exploit-db.com/
                 https://emkei.cz/
                 
-                identity spoof: proxy network,proxy server
-                                VPN(virtual private network)
-                                
+                identity spoof: proxy network,proxy server:-request normally forward
+                                VPN(virtual private network):-encypting layer data
+                                Network layer
+               
                 
-                
+                Ny default vpn in parrot:anonsurf
                 
