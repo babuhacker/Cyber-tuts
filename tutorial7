@@ -1,0 +1,15 @@
+CRYPTOGRAPHY:
+
+.Encryption/Decryprtion
+.Hashing
+.Encoding
+
+*Encryption/Decryption:-Bidirectional(Symmetric)
+                      :Ceasers Cipher(Symmetric)
+                      :Transposition Cipher(Symmetric)
+                      
+                      RSA(Asymmetric encryption algorithm)
+                      :public key
+                      :private key
+                      Certification auth:-key generation,key secure , key distribution
+                      
