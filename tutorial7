@@ -38,6 +38,16 @@ CRYPTOGRAPHY:
               (SALT & PAPER) make secure 
               H{Password} ->HASH;
               H{SALT+Password} -> HASH
+              
+              
+              
+              
+*ENCODING:-   BASE64
+              BASE32
+              URL encoding
+              Hex
+              
+            
               H{.............}-> HASH
               H{SALT + {PASSWORD}}
               H{H{SALT+PASSWORD}+ papper} => HASH
