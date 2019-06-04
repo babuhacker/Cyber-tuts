@@ -23,3 +23,21 @@ CRYPTOGRAPHY:
                             Md5: 128bit(32 char)
 
 *Hashing:-    MD5 hashing algorithm 
+              not decrypt
+              match hashing
+              Rainbow table attacks
+              .................
+              :PLAIN TEXT:HASH:
+              :          :    :
+              :          :    :
+              :          :    :
+              :          :    :
+              :          :    :
+              
+              
+              (SALT & PAPER) make secure 
+              H{Password} ->HASH;
+              H{SALT+Password} -> HASH
+              H{.............}-> HASH
+              H{SALT + {PASSWORD}}
+              H{H{SALT+PASSWORD}+ papper} => HASH
