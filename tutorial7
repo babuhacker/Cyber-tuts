@@ -13,3 +13,13 @@ CRYPTOGRAPHY:
                       :private key
                       Certification auth:-key generation,key secure , key distribution
                       
+                      
+                      
+                      Bank Transaction: Symmetric enc. algo:ex:AES(Advanced encryption Standard)
+                                                               DES(Data Encryption Standard)
+                            ex: triple layer AES:
+                            
+                            AES:256 bit: Charecter length
+                            Md5: 128bit(32 char)
+
+*Hashing:-    MD5 hashing algorithm 
