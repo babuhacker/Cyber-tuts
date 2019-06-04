@@ -41,13 +41,26 @@ CRYPTOGRAPHY:
               
               
               
-              
-*ENCODING:-   BASE64
-              BASE32
-              URL encoding
-              Hex
-              
+          
             
               H{.............}-> HASH
               H{SALT + {PASSWORD}}
               H{H{SALT+PASSWORD}+ papper} => HASH
+              
+              
+
+
+
+            *ENCODING:-   Uses in message convert into some format which easier to process.less resourses uyses by encoding 
+              BASE64
+              BASE32
+              URL encoding
+              Hex
+              
+              cmd : echo "________________" | base64
+                    echo "________________" | base64 > enc.txt
+                    base 64 -d enc.txt |  base32
+                                       |  hexdump
+                                       |  hexdump > enc.txt
+              
+                    
