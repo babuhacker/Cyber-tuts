@@ -63,4 +63,6 @@ CRYPTOGRAPHY:
                                        |  hexdump
                                        |  hexdump > enc.txt
               
-                    
+              
+              PKI: public key infrastructure(level of access)
+              
