@@ -1,6 +1,6 @@
 # Cyber-tuts
 
-H/W:-(make a project all in one information gathering)
+H/W:-(make a project all in  information gathering)
 
 whoismrrobot.com,boot2root,
 https://www.ip2location.com/demo/223.178.184.251
